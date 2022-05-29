@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="100"/>
+</div>
+
+
 - 👋 Hi, I’m @Rc561U
 - 👀 I’m interested in backend development and Machine learning 
 - 🌱 I’m currently learning Python
