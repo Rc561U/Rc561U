@@ -5,7 +5,7 @@
 <div id="badges">
 </div>
 
-- 👋 I’m @Rc561U
+## 👋 I’m @Rc561U
 - 👀 I’m interested in backend development and Machine learning 
 - 🌱 I’m currently learning Python and PHP
 - 💞️ I’m looking to collaborate on project associated with medicine
