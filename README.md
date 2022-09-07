@@ -24,3 +24,6 @@
 Rc561U/Rc561U is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src="https://www.codewars.com/users/Rc561U/badges/large">
+<img src="https://www.credly.com/badges/bf837596-0b36-400f-b542-be2736ed73d5/public_url">
