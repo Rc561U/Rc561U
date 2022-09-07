@@ -1,11 +1,9 @@
 <h1>HELLO TRAVELER</h1>
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="200"/>  
+<div id="header"  align="left">
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="400"/>  
 </div>
 <div id="badges">
- 
 </div>
-
 
 - 👋 I’m @Rc561U
 - 👀 I’m interested in backend development and Machine learning 
@@ -25,5 +23,6 @@ Rc561U/Rc561U is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 <img src="https://www.codewars.com/users/Rc561U/badges/large">
-<img src="https://www.credly.com/badges/bf837596-0b36-400f-b542-be2736ed73d5/public_url">
