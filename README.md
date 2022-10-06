@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://www.codewars.com/users/Rc561U/badges/large">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rc561U)](https://github.com/Rc561U/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rc561U&hide=javascript,css,scss,html&theme=tokyonight)
